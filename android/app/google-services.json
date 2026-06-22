@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836459073275",
+    "project_id": "iris-glaucoma",
+    "storage_bucket": "iris-glaucoma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836459073275:android:51b06b6b61d10ba2742a5e",
+        "android_client_info": {
+          "package_name": "com.example.iris.iris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJo_2nCk8BgOVCKHXCvbHD_99DrtaBxNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+{
+    "tests": {
+        "Start FastAPI & Model Load": "PASS",
+        "No State Dict Mismatch": "PASS",
+        "Health Endpoint (GET /health)": "PASS",
+        "Authentication (Missing/Invalid Token)": "PASS",
+        "Valid Image Prediction (POST /predict)": "PASS",
+        "Valid Probabilities & Output Format": "PASS",
+        "Preprocessing Pipeline (224x224, Normalization)": "PASS"
+    },
+    "errors": [],
+    "readiness_score": 100,
+    "recommendations": [
+        "No critical issues found. Performance is optimal."
+    ],
+    "model_load_time": 6.94,
+    "memory_used_mb": 153.89,
+    "inference_time": 0.38,
+    "sample_result": {
+        "predicted_class": 1,
+        "confidence_score": 0.9915,
+        "risk_status": "Glaucoma"
+    }
+}
